@@ -1,12 +1,5 @@
-/*
-* @Author: kyriejoshua
-* @Date:   2020-09-14 20:49:26
-* @Last Modified by:   changri
-* @Last Modified time: 2020-09-14 20:58:59
-*/
-
 /**
- * 关键字
+ * 任意挑选的关键字
  */
 export const IKEA_NAMES_KEYWORDS = ['拉', '斯', '夫', '帝', '格', '托', '玛', '穆', '勒', '库', '卡', '利', '麦', '维', '克', '特', '贝', '德'];
 

@@ -1,0 +1,22 @@
+{
+  "name": "ikea-chinesename-generator",
+  "version": "1.0.0",
+  "description": "A node.js module that returns a random ikea furniture chinese name because it's easy and funny !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ikea"
+  ],
+  "author": "kyriejoshua",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyriejoshua/ikea-chinesename-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kyriejoshua/ikea-chinesename-generator/issues"
+  },
+  "homepage": "https://github.com/kyriejoshua/ikea-chinesename-generator#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "ikea-chinesename-generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A node.js module that returns a random ikea furniture chinese name because it's easy and funny !",
   "main": "index.js",
   "scripts": {

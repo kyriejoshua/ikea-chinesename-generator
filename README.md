@@ -1,7 +1,7 @@
 ![](https://img.shields.io/github/package-json/v/kyriejoshua/ikea-chinesename-generator?style=for-the-badge)
 ![](https://img.shields.io/npm/dm/ikea-chinesename-generator?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/kyriejoshua/ikea-chinesename-generator?style=for-the-badge)
-![](https://img.shields.io/github/commit-activity/m/kyriejoshua/ikea-chinesename-generator?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/kyriejoshua/ikea-chinesename-generator?style=for-the-badge)
 
 ## Installation
 
